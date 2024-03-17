@@ -4,9 +4,9 @@
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <!-- project options -->
     <modelVersion>4.0.0</modelVersion>
-    <groupId>dev.leons</groupId>
+    <groupId>techeryy</groupId>
     <artifactId>ward</artifactId>
-    <version>2.5.1</version>
+    <version>2.5.2</version>
     <packaging>jar</packaging>
 
     <!-- parent pom -->
