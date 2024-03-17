@@ -1,13 +1,3 @@
-<h3 align = "center">
-<img alt="GitHub Workflow Status" src="https://img.shields.io/github/actions/workflow/status/AntonyLeons/ward/docker-image.yml">
-<img alt="Docker Pulls" src="https://img.shields.io/docker/pulls/antonyleons/ward?style=plastic">
-</h3>
-<h3 align = "center">
-    <img src = "images/logo.png" alt = "Logo" />
-</h3>
-
----
-
 # Quick start
 
 ## Docker
@@ -83,9 +73,9 @@ backgroundColor = #303030
 ```
 
 ### Credits
-Original Creator: https://github.com/Rudolf-Barbu/Ward
-Forked Version: https://github.com/AntonyLeons/Ward
-<a href="https://www.flaticon.com/free-icons/control-panel" title="control panel icons">Control panel icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/processor" title="processor icons">Processor icons created by Those Icons - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/ram" title="ram icons">Ram icons created by srip - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/hard-disk" title="hard disk icons">Hard disk icons created by Freepik - Flaticon</a>
+* Original Creator: https://github.com/Rudolf-Barbu/Ward
+* Forked Version: https://github.com/AntonyLeons/Ward
+* <a href="https://www.flaticon.com/free-icons/control-panel" title="control panel icons">Control panel icons created by Freepik - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/processor" title="processor icons">Processor icons created by Those Icons - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/ram" title="ram icons">Ram icons created by srip - Flaticon</a>
+* <a href="https://www.flaticon.com/free-icons/hard-disk" title="hard disk icons">Hard disk icons created by Freepik - Flaticon</a>
